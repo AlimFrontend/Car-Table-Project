@@ -11,6 +11,6 @@
 ## Установка и запуск
 ```bash
 git clone https://github.com/AlimFrontend/Car-Table.git
-cd carTable
+cd Car-Table-Project
 npm install
 npm run dev
